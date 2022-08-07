@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3.1 Click Tanggal Lahir</name>
+   <tag></tag>
+   <elementGuidId>6f9dacaa-73c0-4f15-9446-ca606cd1818c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='brith_date']/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-calendar-picker-input.ant-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>97ee612d-65e4-4c85-aaa1-03aaaa4c82d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>readonly</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>132868ff-a736-46bf-b022-c1c2564e3241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Pilih tanggal</value>
+      <webElementGuid>cd883a47-15dc-4770-8b60-8205b82cdd7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-calendar-picker-input ant-input</value>
+      <webElementGuid>c8de99be-a72b-48ce-ac55-bcf3f57f4ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brith_date&quot;)/div[1]/input[@class=&quot;ant-calendar-picker-input ant-input&quot;]</value>
+      <webElementGuid>7b2aaa62-1226-4bc1-b51d-023c64074682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='brith_date']/div/input</value>
+      <webElementGuid>1d696b22-5685-4c07-945e-229a09d6f281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/div/input</value>
+      <webElementGuid>8859a74a-bbe6-44a7-ac6b-9a5f88b2e51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Pilih tanggal']</value>
+      <webElementGuid>a313b53b-ea76-413d-8a84-1dcd1eba34a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

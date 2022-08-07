@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>9.2 KTP Upload</name>
+   <tag></tag>
+   <elementGuidId>619dbd62-681f-4ea2-9470-370929072615</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;identity_image&quot;]/div/div/div/span/span/div/span/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ant-upload-drag-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6efb1c7b-79c2-43c0-a7e9-ff933e2674e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-upload-drag-icon</value>
+      <webElementGuid>c5f34b5b-2751-40c6-ac88-4db6427b6dbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;identity_image&quot;)/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/span[@class=&quot;image-uploader&quot;]/div[@class=&quot;ant-upload ant-upload-drag&quot;]/span[@class=&quot;ant-upload ant-upload-btn&quot;]/div[@class=&quot;ant-upload-drag-container&quot;]/p[@class=&quot;ant-upload-drag-icon&quot;]</value>
+      <webElementGuid>37b35a50-eb55-4b9f-ad4c-85c89bc467b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='identity_image']/div/div/div/span/span/div/span/div/p</value>
+      <webElementGuid>cc5f6f50-199b-4641-a076-7560b4a42eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. KTP'])[1]/following::p[1]</value>
+      <webElementGuid>108968b1-0a56-4b3f-8dfe-968f331e81f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tandai Lokasi'])[1]/following::p[1]</value>
+      <webElementGuid>ee5d85ea-7abd-4b07-9030-4bbac3382dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No NPWP'])[1]/preceding::p[3]</value>
+      <webElementGuid>8fd6b832-1ca9-41b6-88f8-c59dbc0c7044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::p[7]</value>
+      <webElementGuid>9ab2865a-e851-4cc5-b0eb-c07204cbc697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>af7acf7d-9034-4e78-864b-e92f3a46b698</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

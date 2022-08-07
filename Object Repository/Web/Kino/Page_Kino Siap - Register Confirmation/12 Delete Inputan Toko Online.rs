@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>12 Delete Inputan Toko Online</name>
+   <tag></tag>
+   <elementGuidId>90f13a20-13ae-4f89-872e-f0f9d59c6914</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='w'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.anticon.anticon-delete > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>2a0354c9-8d46-4339-9963-21bffe2cf26e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>ebd5aae5-0a7b-4c46-91e5-4140d3d0c370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>delete</value>
+      <webElementGuid>a58ff794-6844-4f07-86ae-3eb2aa21280d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>61545417-9df0-4c31-96f8-44547637a19d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>91f367ab-d318-4e3b-9273-3a78e50faa5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>aa82de8b-7135-4058-8273-41d1bb36ccce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a788bc67-0fb0-41c3-ac59-c64d69e201fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>c1dbc14b-6691-4554-b723-974172172be1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;index_container_1eDkH cui__layout__cardsShadow index_white_10yNL&quot;]/div[@class=&quot;index_containerInner_zlE0r&quot;]/div[@class=&quot;d-flex justify-content-center mt-2&quot;]/div[@class=&quot;confirm-register card mb-3 mt-5 pt-3&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-24 ant-col-md-12&quot;]/div[@class=&quot;mb-3 ant-row&quot;]/div[@class=&quot;text-right ant-col ant-col-4&quot;]/i[@class=&quot;anticon anticon-delete&quot;]/svg[1]</value>
+      <webElementGuid>e6545eea-2f49-49c9-800f-951a8ce9ced2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='w'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>94ae8edd-2858-4c36-8fdc-d9d8549a79d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>2c51e564-f18e-4483-884d-175fa06758a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>1679e04e-6d54-46f0-96d1-b6050ed87739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>7788033e-4a3f-48ec-9a4c-f43591d1aeb7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

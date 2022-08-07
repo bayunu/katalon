@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "5488CA3B90E73FCD1B24C2ECEE885C10",
+  "keywordClasses": [
+    {
+      "name": "sign.Open",
+      "keywordMethods": [
+        {
+          "name": "openBrowserSIT",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openBrowserProd",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

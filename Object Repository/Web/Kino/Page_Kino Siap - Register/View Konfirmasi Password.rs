@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>View Konfirmasi Password</name>
+   <tag></tag>
+   <elementGuidId>b9360ba4-40e3-403e-840e-65d1d998b5aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kata Sandi'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>d20d365a-9f33-4084-a503-e6eabbcfb8f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>446832aa-7f54-4165-8a62-59d4f826f0d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>eye-invisible</value>
+      <webElementGuid>998e49cd-d4bc-4683-a57a-de8c24c5680d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>bdd1ea71-c72b-4f35-96d9-238cbc5430ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>5a26542c-f7cb-4050-b74e-c420a824a05a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>fb28bcd1-2f20-4cfb-bc8b-38e323fadd8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f54b06ec-31a9-41bb-a058-c697b8aaaa86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ee4a5dd8-cd3e-4412-8fee-630c6c187ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;index_container_1eDkH cui__layout__cardsShadow index_white_10yNL&quot;]/div[@class=&quot;index_containerInner_zlE0r&quot;]/div[@class=&quot;d-flex justify-content-center mt-2&quot;]/div[@class=&quot;mb-3 mt-5 pt-3 index_containerForm_1x0y_&quot;]/div[@class=&quot;card index_cardSection_2VS26&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-24 ant-col-md-24&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control has-success&quot;]/span[@class=&quot;ant-form-item-children&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-lg ant-input-password ant-input-password-large&quot;]/span[@class=&quot;ant-input-suffix&quot;]/i[@class=&quot;anticon anticon-eye-invisible ant-input-password-icon&quot;]/svg[1]</value>
+      <webElementGuid>82eb2c23-2196-41e9-8f89-11d775840620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kata Sandi'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>7c3b1648-d669-4595-a630-228b7ea20950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>0db92205-b8d5-4659-bf2f-9c3c6868ef34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ca561bf0-bd11-4cea-87f6-208099ad88b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sudah mempunyai akun?'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>bf96d018-1a50-4822-a8de-69298706c489</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

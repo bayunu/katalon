@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "46BFC2E7315395680418C74F6D02D988",
+  "keywordClasses": [
+    {
+      "name": "webKino.OpenBrowser",
+      "keywordMethods": [
+        {
+          "name": "openBrowserSIT",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openBrowserProd",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkBahasa",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

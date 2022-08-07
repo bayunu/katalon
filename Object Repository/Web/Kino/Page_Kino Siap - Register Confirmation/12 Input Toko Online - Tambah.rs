@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>12 Input Toko Online - Tambah</name>
+   <tag></tag>
+   <elementGuidId>9cc1f8ba-dc9e-44f7-a18f-11161aeb641d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inputStore']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.button--addStore.d-flex.justify-content-center.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7eb80d0-8302-4f69-ad0a-bceb1661b2fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--addStore d-flex justify-content-center align-items-center</value>
+      <webElementGuid>57c8c553-3fcc-4017-8bd7-196e3c3113b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Tambah </value>
+      <webElementGuid>ca688bb3-a217-4d0a-9808-7cb3e3a4a74a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inputStore&quot;)/div[@class=&quot;d-flex justify-content-center align-items-center ant-col ant-col-4&quot;]/div[@class=&quot;button--addStore d-flex justify-content-center align-items-center&quot;]</value>
+      <webElementGuid>c991f135-4156-435d-b678-d1f1e497bf2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inputStore']/div[2]/div</value>
+      <webElementGuid>c8fa5400-07f9-4f0d-aedd-f3ec643e87b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[2]/following::div[8]</value>
+      <webElementGuid>d63a45e3-c0bd-4537-9198-eb017995ffd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[2]/following::div[8]</value>
+      <webElementGuid>af68afc8-7715-4007-9048-ec5af071eef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::div[2]</value>
+      <webElementGuid>9d4dbace-261d-4018-a159-c56ce5aacbd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFTAR AKUN'])[1]/preceding::div[6]</value>
+      <webElementGuid>797f286d-64e4-4611-b828-49edccb9b8d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah']/parent::*</value>
+      <webElementGuid>7da4319a-a700-4936-9fcc-08a29307a61d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>d7a07cfa-009a-4ebd-9d80-b8ad4c052868</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Tambah ' or . = ' Tambah ')]</value>
+      <webElementGuid>baf85a63-c749-4b5e-becf-c893dfb4b4b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

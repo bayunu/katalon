@@ -1,0 +1,23 @@
+{
+  "keywordFileContentHash": "3C7F4145BF0EE4824C14D457FE984278",
+  "keywordClasses": [
+    {
+      "name": "sign.OpenBrowser",
+      "keywordMethods": [
+        {
+          "name": "openBrowserSIT",
+          "parameters": []
+        },
+        {
+          "name": "openBrowserProd",
+          "parameters": []
+        },
+        {
+          "name": "checkBahasa",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

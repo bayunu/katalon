@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sign Up by HP</name>
+   <tag></tag>
+   <elementGuidId>7239bba3-be39-42b5-9284-0d0c8ebf9d53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/div/div/div[2]/div/div/form/div/div[3]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ff11cb9-7933-4207-933d-6ad859554593</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>d1b2935b-450a-4599-9830-fe8747c2f375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> No Handphone </value>
+      <webElementGuid>cd95629d-e60a-4f5e-84fe-5d6f12294788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;index_container_1eDkH cui__layout__cardsShadow index_white_10yNL&quot;]/div[@class=&quot;index_containerInner_zlE0r&quot;]/div[@class=&quot;d-flex justify-content-center mt-2&quot;]/div[@class=&quot;mb-3 mt-5 pt-3 index_containerForm_1x0y_&quot;]/div[@class=&quot;card index_cardSection_2VS26&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-24 ant-col-md-24&quot;]/div[2]/div[@class=&quot;switch-user-type&quot;]/div[@class=&quot;active&quot;]</value>
+      <webElementGuid>1df88abf-9d4a-4b33-866a-b7e06dc89cab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/div/div/div[2]/div/div/form/div/div[3]/div[2]/div/div</value>
+      <webElementGuid>fa0ad603-c3ed-4816-9f91-f87fc9014c41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mohon diisi salah satu (no handphone atau email) untuk verifikasi akun'])[1]/following::div[3]</value>
+      <webElementGuid>88917449-b8c6-4153-b06c-5f87ec19da55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Belakang'])[1]/following::div[5]</value>
+      <webElementGuid>fd5b51f9-3b2c-4f7d-aac8-399f2950e14b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::div[1]</value>
+      <webElementGuid>89476380-fdad-4692-82ba-27c800d427d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone (WhatsApp)'])[1]/preceding::div[2]</value>
+      <webElementGuid>3a5ebf8f-46c4-4882-8d09-a4b344986e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No Handphone']/parent::*</value>
+      <webElementGuid>ffe61c38-aa65-4125-b773-79c64c0c7d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>74a47a59-d59e-4f8d-8ecf-d40801debdee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' No Handphone ' or . = ' No Handphone ')]</value>
+      <webElementGuid>aed3f2ac-5f82-4edb-bd78-498e2f09a0a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

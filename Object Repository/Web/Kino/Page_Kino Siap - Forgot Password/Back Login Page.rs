@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Back Login Page</name>
+   <tag></tag>
+   <elementGuidId>ece37bf2-20b4-481a-9c6e-75720f8403db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/div/div/div[2]/div/div/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.kit__utils__link.font-size-16.index_colorPrimary_nXkEN</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>65cf2551-67d1-4e9c-a79c-baa6f3ec47ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/distributorship/auth/login</value>
+      <webElementGuid>fc6d902e-fb18-4084-9575-d82fc018ee35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kit__utils__link font-size-16 index_colorPrimary_nXkEN</value>
+      <webElementGuid>c7e21fb4-3e4d-46bc-a020-d132b81cf478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Kembali ke halaman login </value>
+      <webElementGuid>f9683e51-6eff-4042-8a8e-a818a47b78aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;AuthFooterImage_container_1otOw cui__layout__cardsShadow AuthFooterImage_white_28AmU&quot;]/div[@class=&quot;AuthFooterImage_containerInner_1rOoG&quot;]/div[@class=&quot;d-flex justify-content-center&quot;]/div[1]/div[@class=&quot;card index_container_1ZfJF&quot;]/div[3]/a[@class=&quot;kit__utils__link font-size-16 index_colorPrimary_nXkEN&quot;]</value>
+      <webElementGuid>a9956a75-31c7-49a3-980f-53a720201c6f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/div/div/div[2]/div/div/div[3]/a</value>
+      <webElementGuid>7b749f1a-d881-462b-8849-b74cf4ba789c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kembali ke halaman login')]</value>
+      <webElementGuid>7990f6cc-bbdf-4763-a454-0762d78aab8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setel ulang kata sandi sukses'])[1]/following::a[2]</value>
+      <webElementGuid>221365fd-1749-4655-bd61-50cd12773b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terima Kasih'])[1]/following::a[2]</value>
+      <webElementGuid>8b13161c-4f25-405d-8f1f-043d70082553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kembali ke halaman login']/parent::*</value>
+      <webElementGuid>db0c1db9-5338-406d-ae51-2545934f0fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/distributorship/auth/login')]</value>
+      <webElementGuid>5ee5df12-c461-4481-9596-b17c174ba527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>6794f576-8389-4669-afdc-967dbfb1d155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/distributorship/auth/login' and (text() = ' Kembali ke halaman login ' or . = ' Kembali ke halaman login ')]</value>
+      <webElementGuid>9d46b250-a211-4b62-ba28-5b03e73b90f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_English</name>
+   <tag></tag>
+   <elementGuidId>b3303ec0-9c58-419b-8535-cb1dc0b32635</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/header/div/div/div/div/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b678127b-a026-4b51-a183-cc6e97f7f23f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>English</value>
+      <webElementGuid>e49542b6-c613-42da-b9c7-aa2e29533885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;header header-layout-3 header__fixed header_header__3hRD-&quot;]/div[@class=&quot;navbar-area full-width&quot;]/div[@class=&quot;d-flex align-items-center w-100&quot;]/div[@class=&quot;header_kanan__H5Wlr&quot;]/div[@class=&quot;header_menuHeader__2c6na&quot;]/div[@class=&quot;languages-list mr-3&quot;]/div[@class=&quot;header_dropdown__2nkoK&quot;]/div[@class=&quot;header_dropdownContent__22cxI&quot;]/div[2]</value>
+      <webElementGuid>001c42fe-7de7-480a-a267-3fde8b00f4cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/header/div/div/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>e5b0afd8-5e1c-4af5-8e82-3160caac3ef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[2]/following::div[1]</value>
+      <webElementGuid>86ff5448-9375-458d-91be-4db2b1d3d092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/following::div[3]</value>
+      <webElementGuid>d2c25ac4-14f5-42f7-9d5e-148891dd7576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::div[1]</value>
+      <webElementGuid>b0a57f60-b98c-4836-92cc-ca306fc6007f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>56458103-2fdc-4c21-a585-7b542c0b2e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'English' or . = 'English')]</value>
+      <webElementGuid>b219306a-78ec-45fc-9338-261088fef3db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

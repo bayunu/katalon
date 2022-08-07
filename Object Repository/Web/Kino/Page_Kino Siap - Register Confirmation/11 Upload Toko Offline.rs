@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>11 Upload Toko Offline</name>
+   <tag></tag>
+   <elementGuidId>1b5ef608-ee55-4161-b60d-ecfd6f130e14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='store_image']/div/div/div/span/span/div/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#store_image > div.ant-row.ant-form-item > div.ant-col.ant-form-item-control-wrapper > div.ant-form-item-control > span.ant-form-item-children > span.image-uploader > div.ant-upload.ant-upload-drag > span.ant-upload.ant-upload-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3ddf0eed-a1f7-49cf-98b4-7bbecc9554f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cb27cc4a-12f2-4c47-8fb9-dbc0aed33554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4c66db78-9e40-4062-8c4f-fe28ee0ea24e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-upload ant-upload-btn</value>
+      <webElementGuid>0f51be58-ba2b-44a4-aa3d-672a226a6ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> klik atau tarik file pada area upload  Unggah foto toko anda dengan format JPG, JPEG, PNG. Max size 2 MB. </value>
+      <webElementGuid>1fcaf251-5432-41a5-8590-cae7a22be0c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;store_image&quot;)/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/span[@class=&quot;image-uploader&quot;]/div[@class=&quot;ant-upload ant-upload-drag&quot;]/span[@class=&quot;ant-upload ant-upload-btn&quot;]</value>
+      <webElementGuid>4ae9366a-b099-4e94-96bc-c5ff7459b9f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='store_image']/div/div/div/span/span/div/span</value>
+      <webElementGuid>d4ee5ddb-359d-4da9-a341-a3507ef7e87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/following::span[3]</value>
+      <webElementGuid>07537dd1-e473-4c4a-b820-9d1301a317e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/following::span[6]</value>
+      <webElementGuid>8c701e16-b208-4ad1-88d5-a08b01df5f15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[2]/preceding::span[3]</value>
+      <webElementGuid>9eba74a6-163f-4cb2-b8f0-fa4af91b2687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[2]/preceding::span[6]</value>
+      <webElementGuid>0a8711cd-b2e6-417a-83bc-c06ed50c7688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div/div/span/span/div/span</value>
+      <webElementGuid>46a48104-4773-4809-8d33-5891186ef670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' klik atau tarik file pada area upload  Unggah foto toko anda dengan format JPG, JPEG, PNG. Max size 2 MB. ' or . = ' klik atau tarik file pada area upload  Unggah foto toko anda dengan format JPG, JPEG, PNG. Max size 2 MB. ')]</value>
+      <webElementGuid>347c16e7-31ab-48c6-a75d-e35d1a2e6fd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

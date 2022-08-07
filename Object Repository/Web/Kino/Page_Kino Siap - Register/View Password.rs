@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>View Password</name>
+   <tag></tag>
+   <elementGuidId>e4538e54-ba72-4df6-bfd1-2de7c2d417b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.anticon.anticon-eye-invisible.ant-input-password-icon > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>d86384cc-2048-4919-a0fe-4b5d15019137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>e3b09cec-b51a-4a43-ad14-a4384d7fcb53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>eye-invisible</value>
+      <webElementGuid>79ddb440-08ea-4397-b141-75de1de2926d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>2bb817f5-3472-49a6-a5cd-7122cb56a935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>9a13b95b-b7f8-4318-8f86-777fdab2c315</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>c91d7e2e-557d-48d2-8097-59dd18a0e7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c25df837-97d4-4c17-8540-b57e06c26d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>00ea9d03-ecc7-4571-812f-4ca7e1cf9145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;index_container_1eDkH cui__layout__cardsShadow index_white_10yNL&quot;]/div[@class=&quot;index_containerInner_zlE0r&quot;]/div[@class=&quot;d-flex justify-content-center mt-2&quot;]/div[@class=&quot;mb-3 mt-5 pt-3 index_containerForm_1x0y_&quot;]/div[@class=&quot;card index_cardSection_2VS26&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-24 ant-col-md-24&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control has-success&quot;]/span[@class=&quot;ant-form-item-children&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-lg ant-input-password ant-input-password-large&quot;]/span[@class=&quot;ant-input-suffix&quot;]/i[@class=&quot;anticon anticon-eye-invisible ant-input-password-icon&quot;]/svg[1]</value>
+      <webElementGuid>39b4aa2f-201a-4e9e-b91e-518227e511c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>6102c0c8-707c-45dd-9ab4-5a9a5af9749a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[2]/following::*[name()='svg'][1]</value>
+      <webElementGuid>cd79f422-ac35-4260-9fbf-04781ff3db03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kata Sandi'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>8bdeac17-6c0d-4516-acbb-7939215cf2cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>9f6a74ba-93b9-4342-80b7-573a179ed62a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

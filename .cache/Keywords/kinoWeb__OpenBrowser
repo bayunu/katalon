@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "28DE66C8B03CB914323D6DDF030C047D",
+  "keywordClasses": [
+    {
+      "name": "kinoWeb.OpenBrowser",
+      "keywordMethods": [
+        {
+          "name": "openBrowserSIT",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openBrowserProd",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "checkBahasa",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

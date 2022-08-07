@@ -1,0 +1,58 @@
+{
+  "keywordFileContentHash": "C69DAA1826E7332DC79B064677812193",
+  "keywordClasses": [
+    {
+      "name": "sign.SignOut",
+      "keywordMethods": [
+        {
+          "name": "openBrowserSIT",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "openBrowserProd",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "signIn",
+          "parameters": [
+            {
+              "name": "username",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "Password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "signOut",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

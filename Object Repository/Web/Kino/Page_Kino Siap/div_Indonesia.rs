@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Indonesia</name>
+   <tag></tag>
+   <elementGuidId>7350e47c-35e4-46a3-ba10-3081432777a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/header/div/div/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.header_dropdownContent__22cxI > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d3c06b1-c34b-497a-8a10-5fca1b928440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Indonesia</value>
+      <webElementGuid>45941229-827d-46ba-8291-feb41adf1159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;header header-layout-3 header__fixed header_header__3hRD-&quot;]/div[@class=&quot;navbar-area full-width&quot;]/div[@class=&quot;d-flex align-items-center w-100&quot;]/div[@class=&quot;header_kanan__H5Wlr&quot;]/div[@class=&quot;header_menuHeader__2c6na&quot;]/div[@class=&quot;languages-list mr-3&quot;]/div[@class=&quot;header_dropdown__2nkoK&quot;]/div[@class=&quot;header_dropdownContent__22cxI&quot;]/div[1]</value>
+      <webElementGuid>fad43292-8478-4b2f-a867-d1ac6f86cabb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/header/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>3c783d02-a210-48f5-bb63-46e074d83f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/following::div[2]</value>
+      <webElementGuid>eb223763-73a2-4f3c-a6df-b3f63262da51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::div[1]</value>
+      <webElementGuid>4c3059bb-1a3e-4eac-8444-8157400f11a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>a0e7f2a3-56d5-46fa-8bc5-cb1c4c953cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Indonesia' or . = 'Indonesia')]</value>
+      <webElementGuid>437c90a8-0553-491e-87f5-80b3a3742fdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

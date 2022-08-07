@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Sign Up by Email</name>
+   <tag></tag>
+   <elementGuidId>90ee089a-6e6c-4b44-8ad3-7f44644fc295</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/div/div/div[2]/div/div/form/div/div[3]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>49e6cf94-e023-4299-a648-1ed06f0e4a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Email </value>
+      <webElementGuid>faecb872-82e2-480c-b4c6-d022f2571f27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;index_container_1eDkH cui__layout__cardsShadow index_white_10yNL&quot;]/div[@class=&quot;index_containerInner_zlE0r&quot;]/div[@class=&quot;d-flex justify-content-center mt-2&quot;]/div[@class=&quot;mb-3 mt-5 pt-3 index_containerForm_1x0y_&quot;]/div[@class=&quot;card index_cardSection_2VS26&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-xs-24 ant-col-sm-24 ant-col-md-24&quot;]/div[2]/div[@class=&quot;switch-user-type&quot;]/div[2]</value>
+      <webElementGuid>373bd14d-155b-432f-8616-81f9ad8739c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/div/div/div[2]/div/div/form/div/div[3]/div[2]/div/div[2]</value>
+      <webElementGuid>8e1753d5-ac87-47bf-a3da-983940107bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone'])[1]/following::div[1]</value>
+      <webElementGuid>bedda544-8014-4f50-89a2-8898acdd2d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mohon diisi salah satu (no handphone atau email) untuk verifikasi akun'])[1]/following::div[4]</value>
+      <webElementGuid>5cc300a1-bb00-4cc5-af80-fbd6093b1e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Handphone (WhatsApp)'])[1]/preceding::div[1]</value>
+      <webElementGuid>0fab4475-dbb8-4c1e-b382-f466814ad002</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::div[5]</value>
+      <webElementGuid>4689fe4b-ad21-43a5-9136-ac4dafcb1440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email']/parent::*</value>
+      <webElementGuid>68ce5075-f25d-4ee8-8826-025584604785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>a5ad4961-9d4a-4cf8-91a3-dd13efd2ea27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Email ' or . = ' Email ')]</value>
+      <webElementGuid>f5e9e4fe-985e-47fb-ad36-250865ce824c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

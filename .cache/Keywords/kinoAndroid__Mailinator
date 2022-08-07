@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "420E2CB081AF9AF9201DEEC516375C1B",
+  "keywordClasses": [
+    {
+      "name": "kinoAndroid.Mailinator",
+      "keywordMethods": [
+        {
+          "name": "openMailinatorSignUp",
+          "parameters": [
+            {
+              "name": "username",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Forget Password</name>
+   <tag></tag>
+   <elementGuidId>58138e37-f554-4edd-a911-630861c8e204</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/section/main/div/div/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.kit__utils__link.font-size-16.mt-2.index_colorPrimary_3dlqd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f886b88b-2aef-436d-b049-43f81076c697</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/distributorship/auth/forgot-password</value>
+      <webElementGuid>634cae24-42d1-42ef-a558-741073cdc9f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kit__utils__link font-size-16 mt-2 index_colorPrimary_3dlqd</value>
+      <webElementGuid>5b0ba90f-c3ef-4bda-a54d-4f9973b4a9c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lupa kata sandi? </value>
+      <webElementGuid>d9af074b-8728-4a9f-b827-611f545b4ec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;index_container_1eDkH cui__layout__cardsShadow index_white_10yNL&quot;]/div[@class=&quot;index_containerInner_zlE0r&quot;]/div[@class=&quot;d-flex justify-content-center mt-2&quot;]/div[@class=&quot;mb-3 mt-5 pt-3 index_containerForm_2y-wa&quot;]/div[@class=&quot;card index_cardSection_1zL6j&quot;]/a[@class=&quot;kit__utils__link font-size-16 mt-2 index_colorPrimary_3dlqd&quot;]</value>
+      <webElementGuid>2cc65ef9-02b7-4cb6-936a-66ef3e138827</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/section/main/div/div/div[2]/div/div/a</value>
+      <webElementGuid>4c1ee2f7-53b3-4032-a357-b7e8f899205d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lupa kata sandi?')]</value>
+      <webElementGuid>667c38de-8fbd-4878-b528-5f85a5c33950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::a[1]</value>
+      <webElementGuid>e2147052-cc90-4321-b9cf-1c60975b70d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::a[1]</value>
+      <webElementGuid>7e2e18bb-a695-43f4-93fb-dd58747a9e6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda belum mempunyai akun?'])[1]/preceding::a[1]</value>
+      <webElementGuid>c563794d-fccd-418e-b6cc-eb1ac6336c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/preceding::a[1]</value>
+      <webElementGuid>ed591e4a-5d10-4d54-8997-2bb0965c3708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lupa kata sandi?']/parent::*</value>
+      <webElementGuid>a401d9fb-16e5-4d21-9f1c-7c71742af589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/distributorship/auth/forgot-password')]</value>
+      <webElementGuid>f2a89193-5bf5-4202-8e04-a8fdacbb6a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>1534b69e-6a5d-4f7c-9a3a-1660c2c974c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/distributorship/auth/forgot-password' and (text() = ' Lupa kata sandi? ' or . = ' Lupa kata sandi? ')]</value>
+      <webElementGuid>60558c01-0d84-452f-a7f8-365e47e92eeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

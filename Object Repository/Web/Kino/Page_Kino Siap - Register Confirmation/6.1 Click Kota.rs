@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6.1 Click Kota</name>
+   <tag></tag>
+   <elementGuidId>ce42b48f-fb45-459b-90d5-7b9295b89298</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='user_city']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#user_city > div.ant-select-selection.ant-select-selection--single > div.ant-select-selection__rendered > div.ant-select-selection__placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6cd05301-cf3d-4338-815c-2624e11d8b7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unselectable</name>
+      <type>Main</type>
+      <value>on</value>
+      <webElementGuid>6945102a-2569-47d9-90d1-4ffb8e8f9745</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection__placeholder</value>
+      <webElementGuid>9e4c283e-95db-4d07-b79f-c072f586f036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silakan pilih kabupaten/kota - Provinsi</value>
+      <webElementGuid>53ff4e4a-53de-4f4e-8716-ccd2b5b6c437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user_city&quot;)/div[@class=&quot;ant-select-selection ant-select-selection--single&quot;]/div[@class=&quot;ant-select-selection__rendered&quot;]/div[@class=&quot;ant-select-selection__placeholder&quot;]</value>
+      <webElementGuid>31483753-dc1a-43e2-b33d-c8eca2a320f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='user_city']/div/div/div</value>
+      <webElementGuid>8d384905-8b2d-464d-8d1e-e0bd4b547cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kabupaten/Kota - Provinsi'])[1]/following::div[4]</value>
+      <webElementGuid>9f1f63eb-db4f-482a-94df-6a20509df9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/following::div[10]</value>
+      <webElementGuid>ae78d3ff-a96f-42e1-9966-6aadc9fb4bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desa/Kelurahan - Kecamatan'])[1]/preceding::div[3]</value>
+      <webElementGuid>61aa76f4-f81b-40c7-baf7-33e96575c7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silakan pilih Desa/Kelurahan - Kecamatan'])[1]/preceding::div[3]</value>
+      <webElementGuid>b327cc27-9ff4-4181-af09-a1b98c579c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Silakan pilih kabupaten/kota - Provinsi']/parent::*</value>
+      <webElementGuid>0c192dac-e64f-4043-9705-1a46a2e6eac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/span/div/div/div/div</value>
+      <webElementGuid>69fd4f39-f590-40ce-b346-1d75dae5ba36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Silakan pilih kabupaten/kota - Provinsi' or . = 'Silakan pilih kabupaten/kota - Provinsi')]</value>
+      <webElementGuid>b3b12ae9-0c89-4ce5-9543-21a4ebeb6eeb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

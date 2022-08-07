@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu Sign Up</name>
+   <tag></tag>
+   <elementGuidId>e5d06632-d02a-444d-a648-07d9234cefdb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main']/header/div/div/div/div/div[2]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.header_daftar__jj57Z.d-flex.align-items-center > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bc29cb41-7e1a-4549-b18b-b4a791904bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar</value>
+      <webElementGuid>7d74a0a6-9829-4354-9631-c59e7209e2ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/header[@class=&quot;header header-layout-3 header__fixed header_header__3hRD-&quot;]/div[@class=&quot;navbar-area full-width&quot;]/div[@class=&quot;d-flex align-items-center w-100&quot;]/div[@class=&quot;header_kanan__H5Wlr&quot;]/div[@class=&quot;header_menuHeader__2c6na&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;header_daftar__jj57Z d-flex align-items-center&quot;]/span[1]</value>
+      <webElementGuid>945881c1-e2aa-4a5b-b767-c23fb30356b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main']/header/div/div/div/div/div[2]/div[2]/span</value>
+      <webElementGuid>2447e8eb-c38b-482e-b47d-80c5f5f7519f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::span[1]</value>
+      <webElementGuid>1dd093e8-1f86-4a36-be18-40da4a73257f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::span[2]</value>
+      <webElementGuid>8c461601-5e5a-4ecc-a2cc-b90bc9f74d48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Produk'])[1]/preceding::span[5]</value>
+      <webElementGuid>4c54a25d-0faf-457d-898d-f21944566c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penjualan Terbaik'])[1]/preceding::span[5]</value>
+      <webElementGuid>38c237bb-6639-458e-83b0-11cba6c990d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>de929fe0-4c7a-45cc-bcac-6d3ae25eaae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>f1f88e7c-1f3a-43de-8859-239d5859d35b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Daftar' or . = 'Daftar')]</value>
+      <webElementGuid>ca9a27b2-c18b-417c-99d0-02074bddf86e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,29 @@
+{
+  "keywordFileContentHash": "B1E38B43C30C5A2DB7607F6F515F7856",
+  "keywordClasses": [
+    {
+      "name": "sign.WriteExcel",
+      "keywordMethods": [
+        {
+          "name": "writeExcel",
+          "parameters": [
+            {
+              "name": "name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

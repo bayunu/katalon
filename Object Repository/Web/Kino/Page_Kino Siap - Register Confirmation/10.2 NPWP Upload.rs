@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>10.2 NPWP Upload</name>
+   <tag></tag>
+   <elementGuidId>cfb10000-3a95-45df-9798-4ae9e4d56cd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;npwp_image&quot;]/div/div/div/span/span/div/span/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.ant-upload-drag-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4b93b64e-b6d6-4160-b894-f329797d38b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-upload-drag-icon</value>
+      <webElementGuid>96e6bac4-dd9f-4ff7-81c9-be467a13e302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;npwp_image&quot;)/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/span[@class=&quot;image-uploader&quot;]/div[@class=&quot;ant-upload ant-upload-drag&quot;]/span[@class=&quot;ant-upload ant-upload-btn&quot;]/div[@class=&quot;ant-upload-drag-container&quot;]/p[@class=&quot;ant-upload-drag-icon&quot;]</value>
+      <webElementGuid>4e381ebf-1931-4e9c-addb-c0c484779991</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='npwp_image']/div/div/div/span/span/div/span/div/p</value>
+      <webElementGuid>7df16b89-5959-4488-ae16-5a70902f52b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No NPWP'])[1]/following::p[1]</value>
+      <webElementGuid>12e14423-faf4-43e6-919c-c40ae995c60d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Gambar'])[1]/following::p[1]</value>
+      <webElementGuid>16709984-be70-42c4-b8a3-d07b5ac198af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::p[4]</value>
+      <webElementGuid>10854b15-955a-4c33-a4e6-324abada1058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::p[4]</value>
+      <webElementGuid>d6975277-274e-454e-881f-f2c18ebb454f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>cb404016-36d0-4cce-ab58-dafc635609f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
