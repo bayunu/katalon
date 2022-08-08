@@ -68,7 +68,7 @@
       <name>password</name>
    </variable>
    <variable>
-      <defaultValue>'Segar Sari c jeruk, 2, ctn'</defaultValue>
+      <defaultValue>' Segar Sari c jeruk, 4, ctn'</defaultValue>
       <description>Segar Sari c jeruk, 2, ctn;Segar Sari c jeruk, 3, ctn;</description>
       <id>ad69f92a-1936-4363-8846-e45b938032f8</id>
       <masked>false</masked>

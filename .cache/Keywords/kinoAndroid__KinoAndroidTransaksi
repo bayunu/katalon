@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "D33A447BF2B691509F6C06CB160FC5F0",
+  "keywordFileContentHash": "6A76520BECA26DAF7DF1DE9C83EE7532",
   "keywordClasses": [
     {
       "name": "kinoAndroid.KinoAndroidTransaksi",
@@ -20,8 +20,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "paymentMethod",
@@ -91,8 +90,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "paymentMethodBankTransfer",
@@ -110,8 +108,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "paymentMethodVA",
@@ -129,13 +126,33 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         },
         {
           "name": "paymentMethodEWallet",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": [
+            {
+              "name": "namePayment",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        },
+        {
+          "name": "paymentMethodCOD",
+          "parameters": []
+        },
+        {
+          "name": "paymentMethodCAD",
+          "parameters": []
         },
         {
           "name": "doKinoKoin",
@@ -179,11 +196,10 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": ""
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }
